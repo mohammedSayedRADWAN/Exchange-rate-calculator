@@ -1,7 +1,7 @@
 ## Exchange Rate
 
 Select countries to get the exchange rate for a specific amount
-Link:website https://currency-exchange36.netlify.app
+-Link:website https://currency-exchange36.netlify.app
 ## Project Specifications
 
 - Display UI with 2 select lists for countries and 2 inputs for amounts
